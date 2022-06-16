@@ -3,9 +3,9 @@ The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-- Support Channel :- [Awesome Bot](http://t.me/LaylaList)
+- Support Channel :- [Awesome Bot](http://t.me/kalam_se)
 
-- Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
+- Support Group :- [Awesome Support](http://t.me/kalam_kranti)
 
 
 ```
@@ -20,11 +20,11 @@ Made with Python3
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
-   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@QueenArzoo/VCPlayBot)
-   - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
-   - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
+   - `API_ID` :  "10778409"
+   - `API_HASH` :  "2ba6205ba26d17c04642604df976609c"
+   - `STRING_NAME` :  "BQCFUOLmC0SveQe4r5O5oFALL15dqoXTSVxZiCY0QFUkdOBI_vReFXIV4TU6ChjubiaruXLw84O-f49KZiGBBGhDs9dP9RiYUX7ZC0rZYhcZofVrXoSn2JTLntKNttKQ3S7vdpdArWVsfOq162W40UpzCibo-VOmKaJyLvtJX2pXPv8M2cC2tOKjN-zJCg6CIurT2-KEdoR-4aB2xC8-sYIK0i-hkEaQmApv0zxOT0y0YgoQGyehJHSLpFEGCQMoCibrhdb3DNYZDsNDCUEORiV1ci4YW-LyGRqqgtsE-xbylW9lWUnHHqL_LxvHebWpE9LyRUA7wbPwsm2daSmHv9n4AAAAASsjm54A"
+   - `BOT_TOKEN` :  "5241941860:AAHy_oGREe_aiObDn8OcL_tVX8PeYE28QL8"
+   - `SUDO_USERS` :  "1236703127"
 
 Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
 
